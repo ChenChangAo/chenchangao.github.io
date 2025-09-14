@@ -40,18 +40,15 @@ languages:
       tag: tags
     menu:
       main:
-        - name: Posts
-          url: posts
-          weight: 10
-        - name: Tags
+        - name: 🏷️Tags
           url: tags
-          weight: 20
-        - name: Archives
+          weight: 10
+        - name: 🗃️Archives
           url: archives
-          weight: 30
-        - name: Search
+          weight: 20
+        - name: 🔍Search
           url: search
-          weight: 40
+          weight: 30
 
 params:
   env: production
