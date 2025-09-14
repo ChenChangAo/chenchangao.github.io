@@ -88,6 +88,10 @@ params:
 
   assets:
     disableHLJS: true
+    favicon: favicon.svg
+
+  label:
+    icon: favicon.svg
 
 markup:
   goldmark:
