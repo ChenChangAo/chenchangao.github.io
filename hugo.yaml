@@ -40,13 +40,13 @@ languages:
       tag: tags
     menu:
       main:
-        - name: 🏷️Tags
+        - name: Tags
           url: tags
           weight: 10
-        - name: 🗃️Archives
+        - name: Archives
           url: archives
           weight: 20
-        - name: 🔍Search
+        - name: Search
           url: search
           weight: 30
 
